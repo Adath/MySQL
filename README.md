@@ -1,6 +1,23 @@
-<h2 align="center">MySQL</h2>
+<p align="center"><img src="mysql.svg" width="400"></p>
 
-<p align="center">Repository containing the queries developed in MySQL</p>
+<p align="center">Repository containing the queries developed in <a href="https://www.mysql.com/">👉 MySQL 👈</a></p>
+
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/languages/count/Adath/MySQL">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/last-commit/Adath/MySQL">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/followers/Adath?style=social">
+    </a>
+</p>
+
+<h2 align="center">Connection</h2>
 
 <h6 align="center">Windows</h6>
 
@@ -33,14 +50,18 @@
 ```bash
     mysql -u root -h localhost -p
 
-    use mysql
+    USE mysql
 
     ALTER USER 'root'@'localhost' IDENTIFIED BY 'my_password';
 
     exit
+```
 
+```bash
     sudo systemctl start mariadb
+```
 
+```bash
     sudo mysql_secure_installation
 
     sudo systemctl status mariadb
