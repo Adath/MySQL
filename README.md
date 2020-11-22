@@ -72,3 +72,27 @@
 
     sudo mysql --user root --host localhost -p
 ```
+
+<h6 align="center">SHOW DATABASES</h6>
+
+```sql
+    SHOW DATABASES;
+```
+
+<h6 align="center">CREATE DATABASE</h6>
+
+```sql
+    CREATE DATABASE mysql_db;
+```
+
+<h6 align="center">USE DATABASE</h6>
+
+```sql
+    USE mysql_db;
+```
+
+<h6 align="center">SHOW TABLES AND VIEWS</h6>
+
+```sql
+    SHOW TABLES;
+```
