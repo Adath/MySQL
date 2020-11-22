@@ -17,6 +17,20 @@
     </a>
 </p>
 
+<h6 align="center">INTRODUCTION</h6>
+
+<p>🌖 DDL - Data Definition Language</p>
+
+<p>🌗 DML - Data Manipulation Language</p>
+
+<p>🌘 DQL - Data Query Language</p>
+
+<p>🌑 DTL - Data Transaction Language</p>
+
+<p>🌒 DCL - Data Control Language</p>
+
+````
+
 <h2 align="center">Connection</h2>
 
 <h6 align="center">Windows</h6>
