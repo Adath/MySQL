@@ -3,8 +3,8 @@
 <p align="center">Repository containing the queries developed in <a href="https://www.mysql.com/">👉 MySQL 👈</a></p>
 
 <p align="center">
-    <a href="https://opensource.org/licenses/MIT">
-        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/license/Adath/MySQL">
     </a>
     <a href="#">
         <img alt="License" src="https://img.shields.io/github/languages/count/Adath/MySQL">
@@ -12,12 +12,9 @@
     <a href="#">
         <img alt="License" src="https://img.shields.io/github/last-commit/Adath/MySQL">
     </a>
-    <a href="#">
-        <img alt="License" src="https://img.shields.io/github/followers/Adath?style=social">
-    </a>
 </p>
 
-<h6 align="center">INTRODUCTION</h6>
+<h6 align="center">Introduction</h6>
 
 <p>🌖 DDL - Data Definition Language</p>
 
@@ -28,6 +25,8 @@
 <p>🌑 DTL - Data Transaction Language</p>
 
 <p>🌒 DCL - Data Control Language</p>
+
+<h2 align="center">Installation [<a href="https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.22.0.msi">🚀 Windows</a>]</h2>
 
 <h2 align="center">Connection</h2>
 
