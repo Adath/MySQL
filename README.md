@@ -110,7 +110,7 @@
 
 <h5 align="center">TABLES</h5>
 
-<h6 align="center">Show information about a table called h6roducts</h6>
+<h6 align="center">Show information about a table called products</h6>
 
 ```sql
     SHOW CREATE TABLE products;
@@ -119,39 +119,27 @@
 <h6 align="center">Inserting values in a table called products</h6>
 
 ```sql
-    INSERT INTO products (
-        description, brand, price
-        ) VALUES ('Notebook', 'LeNovo', 1500);
+    INSERT INTO products (description, brand, price) VALUES ('Notebook', 'LeNovo', 1500);
 ```
 
 ```sql
-    INSERT INTO products (
-        description, brand, price
-        ) VALUES ('Caneta', 'Bic', 2);
+    INSERT INTO products (description, brand, price) VALUES ('Caneta', 'Bic', 2);
 ```
 
 ```sql
-    INSERT INTO products (
-        description, brand, price
-        ) VALUES ('Fita', 'Durex', 10);
+    INSERT INTO products (description, brand, price) VALUES ('Fita', 'Durex', 10);
 ```
 
 ```sql
-    INSERT INTO products (
-        description, brand, price
-    ) VALUES ('Massa', 'Miojo', 2);
+    INSERT INTO products (description, brand, price) VALUES ('Massa', 'Miojo', 2);
 ```
 
 ```sql
-    INSERT INTO products (
-        description, brand, price
-        ) VALUES ('Leite', 'Ninho', 12);
+    INSERT INTO products (description, brand, price) VALUES ('Leite', 'Ninho', 12);
 ```
 
 ```sql
-    INSERT INTO products (
-        description, brand, price
-        ) VALUES ('Cereal', 'Sucrilhos', 20);
+    INSERT INTO products (description, brand, price) VALUES ('Cereal', 'Sucrilhos', 20);
 ```
 
 <h6 align="center">TRUNCATE TABLE</h6>
